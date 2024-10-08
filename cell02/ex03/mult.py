@@ -1,5 +1,5 @@
-first_number = int(input("Enter your first number :"),end="\n")
-second_number = int(input("Enter your second number :"),\n)
+first_number = int(input("Enter your first number : \n"))
+second_number = int(input("Enter your second number : \n"))
 
  print(first_number, " x ", second_number, " = " ,first_number*second_number)
 
