@@ -1,3 +1,4 @@
+def average(class_):
     sum = 0
     for value in class_.values():
         sum += value
