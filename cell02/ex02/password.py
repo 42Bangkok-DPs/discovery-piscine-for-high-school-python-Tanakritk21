@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 INPUT_password = input(str("Enter your password "))
 password ="Python is awesome"
 if INPUT_password == password:
