@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 number = input(str("Number"))
 number = int(number)
 
