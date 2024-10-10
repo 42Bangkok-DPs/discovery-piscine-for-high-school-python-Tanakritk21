@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 table = 0
 max_table = 10
 
