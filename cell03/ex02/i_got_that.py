@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 Answer = str(input("What you gotta say? : "))
 
 while Answer != "STOP":
