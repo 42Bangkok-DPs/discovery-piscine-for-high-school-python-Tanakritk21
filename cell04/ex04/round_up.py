@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import math
 
 N1 = float(input("Give me the first number: "))
